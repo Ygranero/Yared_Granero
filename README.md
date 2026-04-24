@@ -35,4 +35,5 @@ Evaluation methods:
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/yared-granero/
+
 Email: ygranero28@gmail.com
